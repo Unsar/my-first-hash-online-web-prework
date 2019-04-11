@@ -4,6 +4,7 @@ hash = {"key1" => "value1", "key2" => "value2"}
 end
 hash
 end
+end
 
 
 def shipping_manifest(the_manifest)
